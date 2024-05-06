@@ -1,17 +1,17 @@
-# Mouse Event
+# Dice Roll Simulator
 
 ![screenshot1 of the app](./images/Screenshot1.png)
 
 Check it _**LIVE**_ 👉
-**<https://deebest.github.io/loading-bar/>**
+**<https://deebest.github.io/dice-roll-simulator/>**
 
-A _**Mouse Event**_ web application I built with HTML,CSS and JavaScript, it track and display the position of the user mouse one the screen. I built it as a part of my JavaScript learning journey.
+A _**Dice Roll Simulator**_ web application I built with HTML,CSS and JavaScript, it simulates the dice rolling game. I built it as a part of my JavaScript learning journey.
 
 ![screenshot2 of the app](./images/Screenshot2.png)
 
 ## Uses
 
-Used to find the position of the mouse on the screen and find out the screen size.
+Can be enjoyed as a game of rolling a dice and taking to see which one got which dice face
 
 ## Tech Stack Used
 
